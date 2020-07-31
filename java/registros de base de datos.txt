@@ -1,0 +1,4 @@
+ci 46099060
+contraseña 12345
+nombres Oscar	
+privilegio Gerente
